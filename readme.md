@@ -3,6 +3,9 @@
 
 This project demonstrates a chatbot built with ChatterBot, trained on a customer support dataset (`qa_pairs_updated.csv`), and served locally with a simple web UI using Flask. The training and serving are separated to avoid retraining every time the app runs.
 
+![image](https://github.com/user-attachments/assets/da97e93b-753a-49ad-b0c6-93a3ceeafa94)
+
+
 ## Overview
 - **Training**: The chatbot is trained on a dataset of question-answer pairs from customer support tickets, supplemented with casual conversation pairs and the ChatterBot English corpus.
 - **UI**: A Flask-based web interface allows users to interact with the pre-trained chatbot.
